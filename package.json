@@ -1,0 +1,24 @@
+{
+  "name": "coba-coba",
+  "version": "1.0.0",
+  "description": "ini coba coba",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx lite-server index.html",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohridwanhdp/git-test-etamedu.git"
+  },
+  "author": "MR.HDP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohridwanhdp/git-test-etamedu/issues"
+  },
+  "homepage": "https://github.com/mohridwanhdp/git-test-etamedu#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
